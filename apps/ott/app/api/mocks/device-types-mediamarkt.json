@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "title": "mobile"
+        },
+        {
+            "popup": "tablet_popup",
+            "title": "tablet"
+        }
+    ]
+}

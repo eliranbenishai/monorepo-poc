@@ -1,0 +1,47 @@
+{
+    "apiVersion": "1.1.24",
+    "applicationPropertiesVersion": "0.8.70",
+    "cookiesDomain": "eshop.care.vodafone.com",
+    "googleTagManagerId": "GTM-P5SLTGQ",
+    "openidUrl": "https://eu2.api.vodafone.com/openIDConnectAuthorizationCode/v1/authorize?redirect_uri=https://eshop.care.vodafone.com/uk&client_id=mzAuW7Smxkti4XBDEPi4tVAFSUGmtUAK&scope=openid%20phone%20offline_access%20OPENID_TOKEN_SHARING_PRODUCER%20OPENID_MARKET%20local_sub%20email%20address%20profile%20kyc%20subscriptions&response_type=code&state=9feb5bee-018f-4938-abb7-14306ebce097&acr_values=urn:vodafone:loa:silver&prompt=login&login_hint=OPCO:GB",
+    "openidUrlMsisdn": "https://eu2.api.vodafone.com/openIDConnectAuthorizationCode/v1/authorize?redirect_uri=https://eshop.care.vodafone.com/uk&client_id=mzAuW7Smxkti4XBDEPi4tVAFSUGmtUAK&scope=openid%20phone%20offline_access%20OPENID_TOKEN_SHARING_PRODUCER%20OPENID_MARKET%20local_sub%20email%20address%20profile%20kyc%20subscriptions&response_type=code&state=9feb5bee-018f-4938-abb7-14306ebce097&acr_values=urn:vodafone:loa:silver&prompt=login&login_hint=OPCO:GB",
+    "buildVersion": "2468",
+    "authenticatedEntity": null,
+    "mvaSsoType": "pageLoadRedirect",
+    "multiplePolicy": false,
+    "referralProgramActive": false,
+    "personalisedPricing": false,
+    "deviceTypes": [
+        "MO",
+        "SW",
+        "TA",
+        "LP"
+    ],
+    "documents": {
+        "default": {
+            "ABOUT": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/about-our-insurance-services.pdf",
+            "IPID": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/ipid",
+            "TAC": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/"
+        },
+        "MO": {
+            "IPID": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/ipid",
+            "TAC": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/",
+            "ABOUT": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/about-our-insurance-services.pdf"
+        },
+        "SW": {
+            "IPID": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/ipid",
+            "TAC": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/",
+            "ABOUT": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/about-our-insurance-services.pdf"
+        },
+        "LP": {
+            "IPID": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/ipid",
+            "TAC": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/",
+            "ABOUT": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/about-our-insurance-services.pdf"
+        },
+        "TA": {
+            "IPID": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/ipid",
+            "TAC": "https://www.vodafone.co.uk/terms-and-conditions/consumer/insurance/",
+            "ABOUT": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/about-our-insurance-services.pdf"
+        }
+    }
+}

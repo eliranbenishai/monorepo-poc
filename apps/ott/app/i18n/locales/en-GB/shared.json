@@ -1,0 +1,170 @@
+{
+    "footer": {
+        "vodafone": {
+            "copyright": "Vodafone Limited is authorised and regulated by the Financial Conduct Authority for consumer credit lending and insurance distribution activity (Financial Services Register No. 712210) Registered in England and Wales. Company No 01471587. Registered Office: Vodafone House, The Connection, Newbury, Berkshire, RG14 2FN.",
+            "items": {
+                "insurance_product": "Insurance Product Information Document",
+                "insurance_product_url": "https://api.eshop.care.vodafone.com/configs/documents/content?opco=gb&type=IPID",
+                "privacy_policy": "Privacy Policy",
+                "privacy_policy_url": "https://www.vodafone.com/about/privacy-centre/our-privacy-policy"
+            }
+        },
+        "mediamarkt": {
+            "copyright": "Mediamarkt Limited is authorised and regulated by the Financial Conduct Authority for consumer credit lending and insurance distribution activity (Financial Services Register No. 712210) Registered in England and Wales. Company No 01471587. Registered Office: Vodafone House, The Connection, Newbury, Berkshire, RG14 2FN.",
+            "items": {
+                "insurance_product": "Insurance Product Information Document",
+                "insurance_product_url": "https://mediamarkt.com/configs/documents/content?opco=gb&type=IPID",
+                "privacy_policy": "Privacy Policy",
+                "privacy_policy_url": "https://mediamarkt.com/about/privacy-centre/our-privacy-policy"
+            }
+        }
+    },
+    "header": {
+        "vodafone": {
+            "abstract": "<0>Your demands and needs:</0><1>If your screen was damaged, could you afford the cost of a new phone or the repair?</1><2>If anything happens to the front screen of your device, would a repair help you? Would Vodafone Mobile Device Insurance help you? If you answer 'Yes' to the above questions, your demands and needs are those of a mobile device owner who wishes and needs to ensure that their repair needs of their mobile device are met now and in the future.</2>",
+            "title": "Let's choose your Vodafone Insurance cover",
+            "link": {
+                "label": "Learn more",
+                "url": "https://care.vodafone.com/uk"
+            }
+        },
+        "mediamarkt": {
+            "abstract": "<0>Your demands and needs:</0><1>If your screen was damaged, could you afford the cost of a new phone or the repair?</1><2>If anything happens to the front screen of your device, would a repair help you? Would Vodafone Mobile Device Insurance help you? If you answer 'Yes' to the above questions, your demands and needs are those of a mobile device owner who wishes and needs to ensure that their repair needs of their mobile device are met now and in the future.</2>",
+            "title": "Let's choose your Mediamarkt Insurance cover",
+            "link": {
+                "label": "Learn more",
+                "url": "https://mediamarkt.com"
+            }
+        }
+    },
+    "shared": {
+        "next_step": "Next Step"
+    },
+    "coverage": {
+        "default": {
+            "coverages": {
+                "liquid_damage": "Liquid damage",
+                "liquid_damage_description": "Reparamos tu dispositivos si sufre algún daño causado por cualquier líquido. En caso de que no podamos repararlo, no te preocupes, te lo reemplazaremos por uno del mismo modelo",
+                "front_screen_damage": "Front Screen damage",
+                "worldwide_cover": "Worldwide cover",
+                "worldwide_cover_comment": "Replacement or repaired devices can only be sent to a UK address",
+                "worldwide_cover_description": "Replacement or repaired devices can only be sent to a UK address",
+                "water_damage": "Water / Liquid damage",
+                "accidental_damage": "Accidental damage",
+                "accessories": "Accessories cover",
+                "accessories_comment": "Up to £200 cover for the same incident when purchased from Vodafone or GetGoFone"
+            },
+            "disclaimer": "<div class=\"text-lg mb-4 font-bold\">Damage & breakdown</div><div class=\"text-lg mb-4\">About our Insurance Services</div><div class=\"mb-4\">To find out more about the Insurance services Vodafone Limited provide, please read:</div><div class=\"mb-4\"><a class=\"underline\" href=\"{{ABOUT}}\">About our Insurance Services [PDF: 68KB]</a></div><div class=\"text-lg mb-4\">Insurance Product Information Document (IPID)</div><div class=\"mb-4\">To help you decide if this Insurance provides cover that is right for you, the Insurance Product Information Document summarises the key features, benefits, exclusions and limitations of the cover as well as other important information. This summary is not personalised to you and only contains key details about the Insurance.</div><div class=\"mb-4\"><a class=\"underline\" href=\"{{IPID}}\">Product Information Document (IPID) [PDF: 187KB]</a></div><div class=\"mb-4\">Please also read the Terms and Conditions relating to your cover</div><div class=\"mb-4\"><a class=\"underline\" href=\"{{TAC}}\">Terms and Conditions[PDF: 2.1MB]</a>.</div><div class=\"mb-4\">If you decide to take out this Insurance, you will receive an Insurance Welcome Pack which will include all the full information including the terms and conditions of the insurance policy within the next 10 working days. If you need to make a claim before you receive it, please <a class=\"underline\" href=\"tel:+191\">call us on +191</a>.</div><div class=\"mb-4\">Would you like to proceed?</div><div class=\"mb-4\">Please read the key and full information on the insurance cover above. If you are in agreement and would like to take out cover, then you can click \"next step\".</div>",
+            "excess": {
+                "franchise": {
+                    "description": "Contrato anual - Págalo mes a mes",
+                    "label": "Franquicia - {{excessFee}}€",
+                    "popup_title": "Franquicia",
+                    "popup_content": "Esta es la contribución que tendrás que pagar cuando tu siniestro sea aceptado. La franquicia se cobrará a través de tu factura Vodafone."
+                }
+            },
+            "new": "New",
+            "per_month": "per month",
+            "popular": "Popular Choice",
+            "promotion": {
+                "one_month_discount": {
+                    "description": "A partir del 2 mes, la prima será de {{monthlyFee}}€ al mes",
+                    "label": "Primer mes te costará {{promotionValue}}€."
+                },
+                "one_month_free": {
+                    "description": "A partir del 2 mes, la prima será de {{monthlyFee}}€ al mes",
+                    "label": "1 mes gratis"
+                },
+                "two_month_discount": {
+                    "description": "A partir del 3 mes, la prima será de {{monthlyFee}} al mes",
+                    "label": "Paga {{promotionValue}}€/mes durante 2 meses"
+                }
+            },
+            "title": "2. Choose your coverage",
+            "whats_included": "What's included?"
+        },
+        "vodafone": {
+            "title": "That's-a one spicey meat-a-ball!"
+        }
+    },
+    "details": {
+        "default": {
+            "accept": "Accept and continue",
+            "first_name": "First Name",
+            "email": "Email",
+            "imei": "IMEI",
+            "imei_description": "The IMEI is a unique number that is used to identify your device.",
+            "imei_howto": "How do I find my IMEI?",
+            "imei_howto_description": "The IMEI is a unique number that is used to identify your device.",
+            "last_name": "Last Name",
+            "mobile": "Mobile number",
+            "month": "month",
+            "notice": "If you need to change your personal details, you can do this by logging into <a class=\"underline\" href=\"https://www.vodafone.co.uk/myvf/app\">My Vodafone Account</a> or visiting a Vodafone Store. If you believe the information we hold on you may not be right, please <a class=\"underline\" href=\"tel:191\">call 191</a> free from a Vodafone Pay monthly mobile, or <a class=\"underline\" href=\"tel:03333 040191\">03333 040191</a> from any other UK phone (standard charges apply).",
+            "order_summary": "Order Summary",
+            "recurring_notice": "This is a recurring monthly payment in addition to your Vodafone device and/or airtime plan and will be added each month to your Vodafone invoice.",
+            "required": "Required",
+            "title": "3. Confirm your details"
+        }
+    },
+    "device": {
+        "default": {
+            "criteria": "<strong>Please confirm the following:</strong><ol class=\"list-decimal mt-4 mx-8\"><li class=\"pb-2\">Your device is in full working order and is not already damaged</li><li class=\"pb-2\">Was purchased less than 37 months ago (on or after 23/04/2021) and I have the receipt which includes the IMEI, as a proof of purchase</li><li class=\"pb-2\">Was purchased new or reconditioned from the manufacturer, mobile service provider or retail store (high street or online)</li><li class=\"pb-2\">You are a UK resident and have a UK billing address</li><li class=\"pb-2\">You are 18 years of age or above</li><li class=\"pb-2\">You are a Vodafone consumer pay monthly customer. If you are a business customer, please <a class=\"underline hover:no-underline\" href=\"tel:+191\">contact us</a> (call 191).</li><li class=\"pb-2\">You are the owner of the account</li></ol>",
+            "criteria_confirmation": "I confirm I meet all the criteria above to be eligible for Vodafone Device Insurance",
+            "device_make": "Device Make",
+            "device_model": "Device Model",
+            "device_selection_complete": "Device selection complete!",
+            "device_storage": "Device Storage",
+            "device_type": "Device Type",
+            "devices": {
+                "mobile": "Mobile",
+                "smartwatch": "Smartwatch",
+                "smartwatch_popup": {
+                    "abstract": "",
+                    "target": "tel:12341234",
+                    "title": "Smartwatch Insurance"
+                },
+                "tablet": "Tablet / Laptop",
+                "tablet_popup": {
+                    "abstract": "",
+                    "target_label": "Call us now",
+                    "target_url": "tel:12341234",
+                    "title": "Tablet/Laptop Insurance"
+                }
+            },
+            "disclaimer": "<p class=\"mb-4\">For full eligibility criteria please refer to <a class=\"underline hover:no-underline\" href=\"/uk/faq\">Help &amp; Support</a></p><p>The <a class=\"underline hover:no-underline\" href=\"https://www.vodafone.co.uk/terms-and-conditions/business/buying-with-vodafone/using-this-site/my-account/\" target=\"_blank\">Conditions of use</a> as well as the <a class=\"underline hover:no-underline\" href=\"https://www.vodafone.com/cookie-policies\" target=\"_blank\">Privacy policy</a> contain information and conditions of use of our website. Our privacy policy explains how we manage your personal information and your rights.</p>",
+            "search_model": "Search model...",
+            "title": "1. Select your device"
+        },
+        "vodafone": {
+            "criteria": "<strong>Please confirm the following:</strong><ol class=\"list-decimal mt-4 mx-8\"><li class=\"pb-2\">Your device is in full working order and is not already damaged</li><li class=\"pb-2\">Was purchased less than 37 months ago (on or after 23/04/2021) and I have the receipt which includes the IMEI, as a proof of purchase</li><li class=\"pb-2\">Was purchased new or reconditioned from the manufacturer, mobile service provider or retail store (high street or online)</li><li class=\"pb-2\">You are a UK resident and have a UK billing address</li><li class=\"pb-2\">You are 18 years of age or above</li><li class=\"pb-2\">You are a Vodafone consumer pay monthly customer. If you are a business customer, please <a class=\"underline hover:no-underline\" href=\"tel:+191\">contact us</a> (call 191).</li><li class=\"pb-2\">You are the owner of the account</li></ol>",
+            "criteria_confirmation": "I confirm I meet all the criteria above to be eligible for Vodafone Device Insurance",
+            "device_make": "Device Lolapaloooza",
+            "device_model": "Device Model",
+            "device_selection_complete": "Device selection complete!",
+            "device_storage": "Device Storage",
+            "device_type": "Device Type",
+            "devices": {
+                "mobile": "Mobile",
+                "smartwatch": "Smartwatch",
+                "smartwatch_popup": {
+                    "abstract": "",
+                    "target": "tel:12341234",
+                    "title": "Smartwatch Insurance"
+                },
+                "tablet": "Tablet / Laptop",
+                "tablet_popup": {
+                    "abstract": "",
+                    "target_label": "Call us now",
+                    "target_url": "tel:12341234",
+                    "title": "Tablet/Laptop Insurance"
+                }
+            },
+            "disclaimer": "<p class=\"mb-4\">For full eligibility criteria please refer to <a class=\"underline hover:no-underline\" href=\"/uk/faq\">Help &amp; Support</a></p><p>The <a class=\"underline hover:no-underline\" href=\"https://www.vodafone.co.uk/terms-and-conditions/business/buying-with-vodafone/using-this-site/my-account/\" target=\"_blank\">Conditions of use</a> as well as the <a class=\"underline hover:no-underline\" href=\"https://www.vodafone.com/cookie-policies\" target=\"_blank\">Privacy policy</a> contain information and conditions of use of our website. Our privacy policy explains how we manage your personal information and your rights.</p>",
+            "search_model": "Search model...",
+            "title": "1. Select your device"
+        },
+        "mediamarkt": {
+            "title": "Hey sexy mama... wanna kill all humans?"
+        }
+    }
+}

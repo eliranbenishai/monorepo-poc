@@ -1,0 +1,173 @@
+{
+    "detectedDeviceInfo": null,
+    "data": [
+        {
+            "manufacturerId": "3",
+            "manufacturerName": "Samsung",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "9",
+            "manufacturerName": "Apple",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "17",
+            "manufacturerName": "Xiaomi",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "20",
+            "manufacturerName": "Oppo",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "10",
+            "manufacturerName": "Alcatel",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "37",
+            "manufacturerName": "Asus",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "11",
+            "manufacturerName": "Doro",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "23",
+            "manufacturerName": "Fairphone",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "24",
+            "manufacturerName": "Google",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "5",
+            "manufacturerName": "HTC",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "41",
+            "manufacturerName": "Honor",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "7",
+            "manufacturerName": "Huawei",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "61",
+            "manufacturerName": "Infinix",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "62",
+            "manufacturerName": "Lava",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "26",
+            "manufacturerName": "Lenovo",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "14",
+            "manufacturerName": "Microsoft",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "13",
+            "manufacturerName": "Motorola",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "12",
+            "manufacturerName": "Nokia",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "27",
+            "manufacturerName": "OnePlus",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "69",
+            "manufacturerName": "Realme",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "4",
+            "manufacturerName": "Sony",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "46",
+            "manufacturerName": "TCL",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "8",
+            "manufacturerName": "Vodafone",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "1",
+            "manufacturerName": "ZTE",
+            "deviceTypes": [
+                "MO"
+            ]
+        }
+    ]
+}

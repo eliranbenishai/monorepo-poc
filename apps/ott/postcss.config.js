@@ -1,0 +1,1 @@
+module.exports = require("@vcare/config/tailwind/postcss.config")

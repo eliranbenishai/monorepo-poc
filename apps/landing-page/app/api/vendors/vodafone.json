@@ -1,0 +1,193 @@
+{
+    "key": "vodafone",
+    "colors": {
+        "primary": "230 0 0",
+        "secondary": "",
+        "accent": "240 240 240",
+        "text": "0 0 0"
+    },
+    "landingPage": {
+        "coverage": [
+            {
+                "abstract": "phone_abstract",
+                "icon": "mobile",
+                "label": "iphone",
+                "table": {
+                    "cols": [
+                        {
+                            "appendix": "screen_damage_x",
+                            "label": "screen_damage"
+                        },
+                        {
+                            "label": "breakdown"
+                        },
+                        {
+                            "label": "loss_theft"
+                        }
+                    ],
+                    "rows": [
+                        {
+                            "appendix": "claim_fulfillment_x",
+                            "label": "claim_fulfillment",
+                            "checks": [
+                                true,
+                                true,
+                                true
+                            ]
+                        },
+                        {
+                            "label": "screen_damage",
+                            "checks": [
+                                true,
+                                false,
+                                true
+                            ]
+                        },
+                        {
+                            "label": "worldwide_cover",
+                            "checks": [
+                                true,
+                                true,
+                                false
+                            ]
+                        },
+                        {
+                            "appendix": "water_damage_x",
+                            "label": "water_damage",
+                            "checks": [
+                                true,
+                                true,
+                                true
+                            ]
+                        },
+                        {
+                            "label": "accidental_damage",
+                            "checks": [
+                                true,
+                                true,
+                                true
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "abstract": "phone_abstract",
+                "icon": "mobile",
+                "label": "other_phone",
+                "table": {
+                    "cols": [
+                        {
+                            "appendix": "screen_damage_x",
+                            "label": "screen_damage"
+                        },
+                        {
+                            "label": "breakdown"
+                        },
+                        {
+                            "label": "loss_theft"
+                        }
+                    ],
+                    "rows": [
+                        {
+                            "label": "worldwide_cover",
+                            "checks": [
+                                true,
+                                true,
+                                true
+                            ]
+                        },
+                        {
+                            "label": "water_damage",
+                            "checks": [
+                                true,
+                                false,
+                                true
+                            ]
+                        },
+                        {
+                            "label": "accidental_damage",
+                            "checks": [
+                                true,
+                                true,
+                                true
+                            ]
+                        }
+                    ]
+                }
+            }
+        ],
+        "footer": {
+            "copyright": "copyright",
+            "links": [
+                {
+                    "key": "privacy_policy",
+                    "target": "_blank",
+                    "url": "privacy_policy_url"
+                },
+                {
+                    "key": "insurance_product",
+                    "target": "_blank",
+                    "url": "insurance_product_url"
+                }
+            ]
+        },
+        "header": {
+            "buttons": [
+                {
+                    "key": "good_morning",
+                    "url": "https://musicstore.de",
+                    "target": "_blank"
+                }
+            ],
+            "links": [
+                {
+                    "key": "plans",
+                    "url": "#plans"
+                },
+                {
+                    "key": "insure",
+                    "url": "#insure"
+                },
+                {
+                    "key": "faq",
+                    "url": "#faq"
+                }
+            ]
+        },
+        "hero": {
+            "abstract": true,
+            "image": {
+                "alt": "hero_image",
+                "device": "desktop",
+                "height": "480",
+                "src": "/images/image-hero-v4-desktop-gb.webp",
+                "width": "2560"
+            },
+            "items": [
+                {
+                    "icon": "Dog",
+                    "label": "dog_label",
+                    "price": "mobile_price"
+                },
+                {
+                    "icon": "Mobile",
+                    "label": "mobile_label",
+                    "price": "mobile_price"
+                },
+                {
+                    "icon": "Laptop",
+                    "label": "laptop_label",
+                    "price": "laptop_price"
+                },
+                {
+                    "icon": "Smartwatch",
+                    "label": "smartwatch_label",
+                    "price": "smartwatch_price"
+                }
+            ],
+            "title": "items_title"
+        }
+    },
+    "logo": "Vodafone"
+}

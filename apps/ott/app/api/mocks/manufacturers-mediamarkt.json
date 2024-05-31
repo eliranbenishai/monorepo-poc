@@ -1,0 +1,26 @@
+{
+    "detectedDeviceInfo": null,
+    "data": [
+        {
+            "manufacturerId": "3",
+            "manufacturerName": "Samsung",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "9",
+            "manufacturerName": "Apple",
+            "deviceTypes": [
+                "MO"
+            ]
+        },
+        {
+            "manufacturerId": "24",
+            "manufacturerName": "Google",
+            "deviceTypes": [
+                "MO"
+            ]
+        }
+    ]
+}

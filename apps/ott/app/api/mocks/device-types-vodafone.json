@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "title": "mobile"
+        },
+        {
+            "popup": "tablet_popup",
+            "title": "tablet"
+        },
+        {
+            "popup": "smartwatch_popup",
+            "title": "smartwatch"
+        }
+    ]
+}

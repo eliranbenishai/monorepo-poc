@@ -1,0 +1,121 @@
+{
+    "data": [
+        {
+            "id": "28",
+            "offerId": "53d90ac1-d800-4534-8b15-fd024e220624",
+            "description": "Protección Total",
+            "personalisedOffer": false,
+            "monthlyFee": 8.0,
+            "currency": "EUR",
+            "excessFee": 30.0,
+            "excessFee2": 30.0,
+            "promotionValue": 8.0,
+            "firstYearAmount": 96.0,
+            "promotionMonthsDuration": 0,
+            "accidentalDamageCovered": true,
+            "fluidsDamageCovered": true,
+            "theftCovered": true,
+            "documents": {
+                "ABOUT": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/about-our-insurance-services.pdf",
+                "IPID": "https://inso-documents.vodafone.com/ES/IPID/tags/CARE-PLUS/v1.pdf",
+                "TAC": "https://inso-documents.vodafone.com/ES/TAC/tags/CARE-PLUS/v1.pdf"
+            },
+            "contractDuration": "12",
+            "promotionType": "one_month_free",
+            "coverages": [
+                {
+                    "description": true,
+                    "included": true,
+                    "label": "liquid_damage"
+                },
+                {
+                    "description": true,
+                    "included": true,
+                    "label": "front_screen_damage"
+                },
+                {
+                    "comment": true,
+                    "description": true,
+                    "included": true,
+                    "label": "worldwide_cover"
+                },
+                {
+                    "description": true,
+                    "included": false,
+                    "label": "water_damage"
+                },
+                {
+                    "description": true,
+                    "included": false,
+                    "label": "accidental_damage"
+                },
+                {
+                    "comment": true,
+                    "description": true,
+                    "included": false,
+                    "label": "accessories"
+                }
+            ]
+        },
+        {
+            "id": "117",
+            "offerId": "c023638a-aa98-4a3d-b503-2664bc6540bc",
+            "description": "Vodafone Care Max",
+            "personalisedOffer": false,
+            "monthlyFee": 10.0,
+            "currency": "EUR",
+            "excessFee": 30.0,
+            "excessFee2": 30.0,
+            "promotionValue": 10.0,
+            "firstYearAmount": 120.0,
+            "promotionMonthsDuration": 0,
+            "accidentalDamageCovered": true,
+            "fluidsDamageCovered": true,
+            "theftCovered": true,
+            "techSupportCovered": true,
+            "unlimitedAccidentalDamageClaimsCovered": true,
+            "extraStorageCovered": true,
+            "documents": {
+                "ABOUT": "https://www.vodafone.co.uk/cs/groups/public/documents/webcontent/about-our-insurance-services.pdf",
+                "IPID": "https://inso-documents.vodafone.com/ES/IPID/tags/CARE-MAX/v1.pdf",
+                "TAC": "https://inso-documents.vodafone.com/ES/TAC/tags/CARE-MAX/v1.pdf"
+            },
+            "contractDuration": "12",
+            "tags": [
+                "new",
+                "popular"
+            ],
+            "excessType": "franchise",
+            "promotionType": "two_month_discount",
+            "coverages": [
+                {
+                    "description": true,
+                    "included": true,
+                    "label": "front_screen_damage"
+                },
+                {
+                    "comment": true,
+                    "description": true,
+                    "included": true,
+                    "label": "worldwide_cover"
+                },
+                {
+                    "description": true,
+                    "included": false,
+                    "label": "water_damage"
+                },
+                {
+                    "description": true,
+                    "included": false,
+                    "label": "accidental_damage"
+                },
+                {
+                    "comment": true,
+                    "description": true,
+                    "included": false,
+                    "label": "accessories"
+                }
+            ]
+        }
+    ]
+}

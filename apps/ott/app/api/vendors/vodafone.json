@@ -1,0 +1,41 @@
+{
+    "key": "vodafone",
+    "colors": {
+        "primary": "230 0 0",
+        "secondary": "",
+        "accent": "240 240 240",
+        "text": "0 0 0"
+    },
+    "logo": "Vodafone",
+    "ott": {
+        "header": {
+            "abstract": "abstract",
+            "link": "link",
+            "title": "title"
+        },
+        "footer": {
+            "copyright": "copyright",
+            "links": [
+                {
+                    "key": "privacy_policy",
+                    "target": "_blank",
+                    "url": "privacy_policy_url"
+                },
+                {
+                    "key": "insurance_product",
+                    "target": "_blank",
+                    "url": "insurance_product_url"
+                }
+            ]
+        },
+        "coverage": {
+            "custom": false
+        },
+        "details": {
+            "custom": false
+        },
+        "device": {
+            "custom": true
+        }
+    }
+}

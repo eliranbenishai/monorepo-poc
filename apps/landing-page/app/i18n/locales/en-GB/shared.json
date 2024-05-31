@@ -1,0 +1,47 @@
+{
+    "coverage": {
+        "breakdown": "Breakdown",
+        "features": "Features",
+        "iphone": "iPhone",
+        "other_phone": "Other Phones",
+        "screen_damage": "Screen Damage"
+    },
+    "footer": {
+        "copyright": "Vodafone Limited is authorised and regulated by the Financial Conduct Authority for consumer credit lending and insurance distribution activity (Financial Services Register No. 712210) Registered in England and Wales. Company No 01471587. Registered Office: Vodafone House, The Connection, Newbury, Berkshire, RG14 2FN.",
+        "items": {
+            "insurance_product": "Insurance Product Information Document",
+            "insurance_product_url": "https://api.eshop.care.vodafone.com/configs/documents/content?opco=gb&type=IPID",
+            "privacy_policy": "Privacy Policy",
+            "privacy_policy_url": "https://www.vodafone.com/about/privacy-centre/our-privacy-policy"
+        }
+    },
+    "header": {
+        "features": "Features",
+        "faq": "FAQ",
+        "good_morning": "Good Morning",
+        "look_away": "Look Away!",
+        "insure": "Insure",
+        "plans": "Plans"
+    },
+    "hero": {
+        "mediamarkt": {
+            "abstract": "Mediamarkt + Vodafone Insurance",
+            "cta": "Mediamarkt Clicker",
+            "disclaimer": "Because we're a different vendor, we need a completely different and convoluted disclaimer. Prices vary according to device and level of cover. The cost of insurance for your specific device will be shown at point of purchase",
+            "items_title": "Fast, flexible cover from people who know phones"
+        },
+        "vodafone": {
+            "abstract": "Vodafone Insurance",
+            "cta": "Vodafone Clickorama!",
+            "disclaimer": "Prices vary according to device and level of cover. The cost of insurance for your specific device will be shown at point of purchase",
+            "items_title": "Fast, flexible cover from people who know phones"
+        },
+        "laptop_label": "Laptop / Tablet",
+        "laptop_price": "£3 - £12.50/mo.",
+        "mobile_label": "Mobile",
+        "mobile_price": "£3 - £18.00/mo.",
+        "smartwatch_label": "Smartwatch",
+        "smartwatch_price": "£3 - £9.50/mo.",
+        "title": "Vodafone Insurance"
+    }
+}

@@ -1,0 +1,3 @@
+{
+	"extends": "@vcare/config/typescript/base.json"
+}
